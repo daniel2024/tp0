@@ -1,0 +1,225 @@
+[INFO] 22:36:37:703 Servidor/(139175:139175): Servidor listo para recibir al cliente
+[INFO] 22:37:09:177 Servidor/(139282:139282): Listo para escuchar a mi cliente
+[INFO] 22:37:09:177 Servidor/(139282:139282): Servidor listo para recibir al cliente
+[INFO] 22:41:39:909 Servidor/(139809:139809): Listo para escuchar a mi cliente
+[INFO] 22:41:39:909 Servidor/(139809:139809): Servidor listo para recibir al cliente
+[INFO] 22:47:46:644 Servidor/(140500:140500): Listo para escuchar a mi cliente
+[INFO] 22:47:46:644 Servidor/(140500:140500): Servidor listo para recibir al cliente
+[INFO] 22:52:43:412 Servidor/(141890:141890): Listo para escuchar a mi cliente
+[INFO] 22:52:43:412 Servidor/(141890:141890): Servidor listo para recibir al cliente
+[INFO] 22:54:40:22 Servidor/(142158:142158): Listo para escuchar a mi cliente
+[INFO] 22:54:40:22 Servidor/(142158:142158): Servidor listo para recibir al cliente
+[INFO] 22:54:43:359 Servidor/(142158:142158): Se conect贸 un proceso 
+
+[INFO] 22:54:43:359 Servidor/(142158:142158): Se conecto un cliente!
+[WARNING] 22:54:43:359 Servidor/(142158:142158): Operacion desconocida. No quieras meter la pata
+[WARNING] 22:54:43:359 Servidor/(142158:142158): Operacion desconocida. No quieras meter la pata
+[WARNING] 22:54:43:359 Servidor/(142158:142158): Operacion desconocida. No quieras meter la pata
+[ERROR] 22:54:43:359 Servidor/(142158:142158): el cliente se desconecto. Terminando servidor
+[INFO] 22:54:57:324 Servidor/(142189:142189): Listo para escuchar a mi cliente
+[INFO] 22:54:57:324 Servidor/(142189:142189): Servidor listo para recibir al cliente
+[INFO] 22:57:28:497 Servidor/(142481:142481): Listo para escuchar a mi cliente
+[INFO] 22:57:28:497 Servidor/(142481:142481): Servidor listo para recibir al cliente
+[INFO] 22:57:31:467 Servidor/(142481:142481): Se conect贸 un proceso 
+
+[INFO] 22:57:31:467 Servidor/(142481:142481): Se conecto un cliente!
+[WARNING] 22:57:31:467 Servidor/(142481:142481): Operacion desconocida. No quieras meter la pata
+[WARNING] 22:57:31:467 Servidor/(142481:142481): Operacion desconocida. No quieras meter la pata
+[WARNING] 22:57:31:467 Servidor/(142481:142481): Operacion desconocida. No quieras meter la pata
+[ERROR] 22:57:31:467 Servidor/(142481:142481): el cliente se desconecto. Terminando servidor
+[INFO] 22:58:40:156 Servidor/(142619:142619): Listo para escuchar a mi cliente
+[INFO] 22:58:40:156 Servidor/(142619:142619): Servidor listo para recibir al cliente
+[INFO] 22:58:43:304 Servidor/(142619:142619): Se conect贸 un proceso 
+
+[INFO] 22:58:43:304 Servidor/(142619:142619): Se conecto un cliente!
+[INFO] 22:58:43:304 Servidor/(142619:142619): code operacion 1886544227
+[WARNING] 22:58:43:304 Servidor/(142619:142619): Operacion desconocida. No quieras meter la pata
+[INFO] 22:58:43:304 Servidor/(142619:142619): code operacion 1751346793
+[WARNING] 22:58:43:304 Servidor/(142619:142619): Operacion desconocida. No quieras meter la pata
+[INFO] 22:58:43:304 Servidor/(142619:142619): code operacion 1751318639
+[WARNING] 22:58:43:304 Servidor/(142619:142619): Operacion desconocida. No quieras meter la pata
+[INFO] 22:58:43:304 Servidor/(142619:142619): code operacion -1
+[ERROR] 22:58:43:304 Servidor/(142619:142619): el cliente se desconecto. Terminando servidor
+[INFO] 23:01:14:964 Servidor/(142878:142878): Listo para escuchar a mi cliente
+[INFO] 23:01:14:964 Servidor/(142878:142878): Servidor listo para recibir al cliente
+[INFO] 23:01:17:785 Servidor/(142878:142878): Se conect贸 un proceso 
+
+[INFO] 23:01:17:785 Servidor/(142878:142878): Se conecto un cliente!
+[INFO] 23:01:17:785 Servidor/(142878:142878): code operacion 0
+[INFO] 23:01:17:785 Servidor/(142878:142878): Me llego el mensaje carpincho
+[INFO] 23:01:17:785 Servidor/(142878:142878): code operacion -1
+[ERROR] 23:01:17:785 Servidor/(142878:142878): el cliente se desconecto. Terminando servidor
+[INFO] 23:13:19:89 Servidor/(143949:143949): Listo para escuchar a mi cliente
+[INFO] 23:13:19:89 Servidor/(143949:143949): Servidor listo para recibir al cliente
+[INFO] 23:13:23:132 Servidor/(143949:143949): Se conect贸 un proceso 
+
+[INFO] 23:13:23:132 Servidor/(143949:143949): Se conecto un cliente!
+[INFO] 23:13:23:132 Servidor/(143949:143949): code operacion 0
+[INFO] 23:13:23:132 Servidor/(143949:143949): Me llego el mensaje carpincho
+[INFO] 23:13:40:546 Servidor/(143949:143949): code operacion -1
+[ERROR] 23:13:40:546 Servidor/(143949:143949): el cliente se desconecto. Terminando servidor
+[INFO] 23:13:49:40 Servidor/(143993:143993): Listo para escuchar a mi cliente
+[INFO] 23:13:49:40 Servidor/(143993:143993): Servidor listo para recibir al cliente
+[INFO] 23:15:19:244 Servidor/(143993:143993): Se conect贸 un proceso 
+
+[INFO] 23:15:19:244 Servidor/(143993:143993): Se conecto un cliente!
+[INFO] 23:15:19:244 Servidor/(143993:143993): code operacion 0
+[INFO] 23:15:19:244 Servidor/(143993:143993): Me llego el mensaje carpincho
+[INFO] 23:15:30:42 Servidor/(143993:143993): code operacion 1
+[INFO] 23:15:30:42 Servidor/(143993:143993): Me llegaron los siguientes valores:
+
+[INFO] 23:15:30:43 Servidor/(143993:143993): code operacion -1
+[ERROR] 23:15:30:43 Servidor/(143993:143993): el cliente se desconecto. Terminando servidor
+[INFO] 23:20:00:718 Servidor/(144690:144690): Listo para escuchar a mi cliente
+[INFO] 23:20:00:718 Servidor/(144690:144690): Servidor listo para recibir al cliente
+[INFO] 23:20:09:313 Servidor/(144690:144690): Se conect贸 un proceso 
+
+[INFO] 23:20:09:313 Servidor/(144690:144690): Se conecto un cliente!
+[INFO] 23:20:09:313 Servidor/(144690:144690): code operacion 0
+[INFO] 23:20:09:313 Servidor/(144690:144690): Me llego el mensaje carpincho
+[INFO] 23:20:18:445 Servidor/(144690:144690): code operacion 1
+[INFO] 23:20:18:445 Servidor/(144690:144690): Me llegaron los siguientes valores: 3
+
+[INFO] 23:20:18:446 Servidor/(144690:144690): code operacion -1
+[ERROR] 23:20:18:446 Servidor/(144690:144690): el cliente se desconecto. Terminando servidor
+[INFO] 23:22:03:817 Servidor/(144910:144910): Listo para escuchar a mi cliente
+[INFO] 23:22:03:817 Servidor/(144910:144910): Servidor listo para recibir al cliente
+[INFO] 23:22:06:565 Servidor/(144910:144910): Se conect贸 un proceso 
+
+[INFO] 23:22:06:565 Servidor/(144910:144910): Se conecto un cliente!
+[INFO] 23:22:06:565 Servidor/(144910:144910): code operacion 0
+[INFO] 23:22:06:565 Servidor/(144910:144910): Me llego el mensaje carpincho
+[INFO] 23:22:36:459 Servidor/(144910:144910): code operacion 1
+[INFO] 23:22:36:459 Servidor/(144910:144910): valores recibidos 
+[INFO] 23:22:36:459 Servidor/(144910:144910): valores recibidos 
+[INFO] 23:22:36:459 Servidor/(144910:144910): valores recibidos 
+[INFO] 23:22:36:459 Servidor/(144910:144910): Me llegaron los siguientes valores: 3
+
+[INFO] 23:30:00:39 Servidor/(145436:145436): Listo para escuchar a mi cliente
+[INFO] 23:30:00:39 Servidor/(145436:145436): Servidor listo para recibir al cliente
+[INFO] 23:30:03:424 Servidor/(145436:145436): Se conect贸 un proceso 
+
+[INFO] 23:30:03:424 Servidor/(145436:145436): Se conecto un cliente!
+[INFO] 23:30:03:424 Servidor/(145436:145436): code operacion 0
+[INFO] 23:30:03:424 Servidor/(145436:145436): Me llego el mensaje carpincho
+[INFO] 23:30:05:758 Servidor/(145436:145436): code operacion 1
+[INFO] 23:30:05:758 Servidor/(145436:145436): valores recibidos 24
+[INFO] 23:30:05:758 Servidor/(145436:145436): valores recibidos  s麞窾
+[INFO] 23:30:05:758 Servidor/(145436:145436): valores recibidos �愘y~
+[INFO] 23:30:05:758 Servidor/(145436:145436): valores recibidos @愘y~
+[INFO] 23:30:05:758 Servidor/(145436:145436): Me llegaron los siguientes valores: 3
+
+[INFO] 23:33:05:722 Servidor/(145690:145690): Listo para escuchar a mi cliente
+[INFO] 23:33:05:722 Servidor/(145690:145690): Servidor listo para recibir al cliente
+[INFO] 23:33:10:115 Servidor/(145690:145690): Se conect贸 un proceso 
+
+[INFO] 23:33:10:115 Servidor/(145690:145690): Se conecto un cliente!
+[INFO] 23:33:10:115 Servidor/(145690:145690): code operacion 0
+[INFO] 23:33:10:115 Servidor/(145690:145690): Me llego el mensaje carpincho
+[INFO] 23:33:15:49 Servidor/(145690:145690): code operacion 1
+[INFO] 23:33:15:50 Servidor/(145690:145690): valores recibidos 7
+[INFO] 23:33:15:50 Servidor/(145690:145690): valores recibidos  CM怳
+[INFO] 23:33:15:50 Servidor/(145690:145690): valores recibidos 1
+[INFO] 23:33:15:50 Servidor/(145690:145690): valores recibidos 郉M怳
+[INFO] 23:33:15:50 Servidor/(145690:145690): Me llegaron los siguientes valores: 2
+
+[INFO] 23:33:42:186 Servidor/(145794:145794): Listo para escuchar a mi cliente
+[INFO] 23:33:42:186 Servidor/(145794:145794): Servidor listo para recibir al cliente
+[INFO] 23:33:45:960 Servidor/(145794:145794): Se conect贸 un proceso 
+
+[INFO] 23:33:45:960 Servidor/(145794:145794): Se conecto un cliente!
+[INFO] 23:33:45:960 Servidor/(145794:145794): code operacion 0
+[INFO] 23:33:45:960 Servidor/(145794:145794): Me llego el mensaje carpincho
+[INFO] 23:33:49:805 Servidor/(145794:145794): code operacion 1
+[INFO] 23:33:49:805 Servidor/(145794:145794): tamanio buffer 7
+[INFO] 23:33:49:805 Servidor/(145794:145794): valores recibidos  C^尶U
+[INFO] 23:33:49:805 Servidor/(145794:145794): tamanio buffer 1
+[INFO] 23:33:49:805 Servidor/(145794:145794): valores recibidos 郉^尶U
+[INFO] 23:33:49:805 Servidor/(145794:145794): Me llegaron los siguientes valores: 2
+
+[INFO] 23:34:32:72 Servidor/(145871:145871): Listo para escuchar a mi cliente
+[INFO] 23:34:32:72 Servidor/(145871:145871): Servidor listo para recibir al cliente
+[INFO] 23:34:34:870 Servidor/(145871:145871): Se conect贸 un proceso 
+
+[INFO] 23:34:34:870 Servidor/(145871:145871): Se conecto un cliente!
+[INFO] 23:34:34:870 Servidor/(145871:145871): code operacion 0
+[INFO] 23:34:34:870 Servidor/(145871:145871): Me llego el mensaje carpincho
+[INFO] 23:34:37:434 Servidor/(145871:145871): code operacion 1
+[INFO] 23:34:37:434 Servidor/(145871:145871): tamanio buffer 7
+[INFO] 23:34:37:434 Servidor/(145871:145871): valores recibidos 123456
+[INFO] 23:34:37:434 Servidor/(145871:145871): tamanio buffer 1
+[INFO] 23:34:37:434 Servidor/(145871:145871): valores recibidos 
+[INFO] 23:34:37:434 Servidor/(145871:145871): Me llegaron los siguientes valores: 2
+
+[INFO] 23:37:36:60 Servidor/(147002:147002): Listo para escuchar a mi cliente
+[INFO] 23:37:36:60 Servidor/(147002:147002): Servidor listo para recibir al cliente
+[INFO] 23:37:40:5 Servidor/(147002:147002): Se conect贸 un proceso 
+
+[INFO] 23:37:40:5 Servidor/(147002:147002): Se conecto un cliente!
+[INFO] 23:37:40:5 Servidor/(147002:147002): code operacion 0
+[INFO] 23:37:40:5 Servidor/(147002:147002): Me llego el mensaje carpincho
+[INFO] 23:37:43:860 Servidor/(147002:147002): code operacion 1
+[INFO] 23:37:43:861 Servidor/(147002:147002): Me llegaron los siguientes valores: 2
+
+[INFO] 23:37:43:861 Servidor/(147002:147002): 123456
+
+[INFO] 23:37:43:861 Servidor/(147002:147002): 
+
+[INFO] 23:37:43:861 Servidor/(147002:147002): code operacion -1
+[ERROR] 23:37:43:861 Servidor/(147002:147002): el cliente se desconecto. Terminando servidor
+[INFO] 23:38:05:885 Servidor/(147066:147066): Listo para escuchar a mi cliente
+[INFO] 23:38:05:886 Servidor/(147066:147066): Servidor listo para recibir al cliente
+[INFO] 23:38:09:741 Servidor/(147066:147066): Se conect贸 un proceso 
+
+[INFO] 23:38:09:741 Servidor/(147066:147066): Se conecto un cliente!
+[INFO] 23:38:09:741 Servidor/(147066:147066): code operacion 0
+[INFO] 23:38:09:741 Servidor/(147066:147066): Me llego el mensaje carpincho
+[INFO] 23:38:24:311 Servidor/(147066:147066): code operacion 1
+[INFO] 23:38:24:311 Servidor/(147066:147066): Me llegaron los siguientes valores: 4
+
+[INFO] 23:38:24:311 Servidor/(147066:147066): Valores Recibidoscarpincho 1
+
+[INFO] 23:38:24:311 Servidor/(147066:147066): Valores Recibidoscarpincho 2
+
+[INFO] 23:38:24:311 Servidor/(147066:147066): Valores Recibidoscarpincho 3
+
+[INFO] 23:38:24:311 Servidor/(147066:147066): Valores Recibidos
+
+[INFO] 23:38:24:311 Servidor/(147066:147066): code operacion -1
+[ERROR] 23:38:24:311 Servidor/(147066:147066): el cliente se desconecto. Terminando servidor
+[INFO] 23:38:47:354 Servidor/(147142:147142): Listo para escuchar a mi cliente
+[INFO] 23:38:47:354 Servidor/(147142:147142): Servidor listo para recibir al cliente
+[INFO] 23:38:50:598 Servidor/(147142:147142): Se conect贸 un proceso 
+
+[INFO] 23:38:50:598 Servidor/(147142:147142): Se conecto un cliente!
+[INFO] 23:38:50:598 Servidor/(147142:147142): code operacion 0
+[INFO] 23:38:50:598 Servidor/(147142:147142): Me llego el mensaje carpincho
+[INFO] 23:39:02:340 Servidor/(147142:147142): code operacion 1
+[INFO] 23:39:02:340 Servidor/(147142:147142): Me llegaron los siguientes valores: 4
+
+[INFO] 23:39:02:340 Servidor/(147142:147142): Valor Recibido 	 carpincho 1
+
+[INFO] 23:39:02:340 Servidor/(147142:147142): Valor Recibido 	 carpincho 2
+
+[INFO] 23:39:02:340 Servidor/(147142:147142): Valor Recibido 	 carpincho 3
+
+[INFO] 23:39:02:340 Servidor/(147142:147142): Valor Recibido 	 
+
+[INFO] 23:39:02:340 Servidor/(147142:147142): code operacion -1
+[ERROR] 23:39:02:340 Servidor/(147142:147142): el cliente se desconecto. Terminando servidor
+[INFO] 23:55:00:796 Servidor/(149465:149465): Listo para escuchar a mi cliente
+[INFO] 23:55:00:796 Servidor/(149465:149465): Servidor listo para recibir al cliente
+[INFO] 23:56:27:365 Servidor/(149465:149465): Se conect贸 un proceso 
+
+[INFO] 23:56:27:365 Servidor/(149465:149465): Se conecto un cliente!
+[INFO] 23:56:27:365 Servidor/(149465:149465): code operacion 0
+[INFO] 23:56:27:365 Servidor/(149465:149465): Me llego el mensaje carpincho
+[INFO] 23:56:44:239 Servidor/(149465:149465): code operacion 1
+[INFO] 23:56:44:239 Servidor/(149465:149465): Me llegaron los siguientes valores: 
+
+[INFO] 23:56:44:239 Servidor/(149465:149465): carpincho 1
+[INFO] 23:56:44:239 Servidor/(149465:149465): carpincho 2
+[INFO] 23:56:44:239 Servidor/(149465:149465): carpincho 3
+[INFO] 23:56:44:239 Servidor/(149465:149465): 
+[INFO] 23:56:44:239 Servidor/(149465:149465): code operacion -1
+[ERROR] 23:56:44:239 Servidor/(149465:149465): el cliente se desconecto. Terminando servidor
